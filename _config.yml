@@ -89,7 +89,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # languagelearningkids/languagelearningkids.github.io
+    repo: languagelearningkids/languagelearningkids.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLB8RfQ
     category: Announcements
     category_id: DIC_kwDOLB8Rfc4CcRCH
